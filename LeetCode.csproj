@@ -47,6 +47,7 @@
     <Compile Include="Easy\BinaryTreeInorderTraversal.cs" />
     <Compile Include="Easy\ClimbingStairs.cs" />
     <Compile Include="Easy\ImplementStrstr.cs" />
+    <Compile Include="Easy\MaximumDepthOfBinaryTree.cs" />
     <Compile Include="Easy\SymmetricTree.cs" />
     <Compile Include="Medium\IntToRoman.cs" />
     <Compile Include="Easy\LengthOfLastWord.cs" />
