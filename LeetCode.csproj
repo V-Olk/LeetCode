@@ -46,6 +46,7 @@
     <Compile Include="Easy\AddBinary.cs" />
     <Compile Include="Easy\BinaryTreeInorderTraversal.cs" />
     <Compile Include="Easy\ClimbingStairs.cs" />
+    <Compile Include="Easy\ConvertSortedArrayToBinarySearchTree.cs" />
     <Compile Include="Easy\ImplementStrstr.cs" />
     <Compile Include="Easy\MaximumDepthOfBinaryTree.cs" />
     <Compile Include="Easy\SymmetricTree.cs" />
