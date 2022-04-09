@@ -60,6 +60,7 @@
     <Compile Include="Easy\PalindromeNumber.cs" />
     <Compile Include="Easy\PascalsTriangle.cs" />
     <Compile Include="Easy\PlusOne.cs" />
+    <Compile Include="Medium\LongestPalindromicSubstring.cs" />
     <Compile Include="Medium\LongestSubstringWithoutRepeatingCharacters.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Easy\RemoveDuplicatesFromSortedArray.cs" />
