@@ -10,6 +10,7 @@
     <AssemblyName>LeetCode</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <LangVersion>latest</LangVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
@@ -43,6 +44,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Contest\ProblemG.cs" />
+    <Compile Include="Contest\ProblemF.cs" />
+    <Compile Include="Contest\ProblemE24.cs" />
+    <Compile Include="Contest\ProblemE23.cs" />
+    <Compile Include="Contest\ProblemE2.cs" />
+    <Compile Include="Contest\ProblemE1.cs" />
+    <Compile Include="Contest\ProblemA.cs" />
+    <Compile Include="Contest\ProblemB.cs" />
+    <Compile Include="Contest\ProblemD.cs" />
+    <Compile Include="Contest\ProblemC.cs" />
     <Compile Include="Easy\AddBinary.cs" />
     <Compile Include="Easy\BinaryTreeInorderTraversal.cs" />
     <Compile Include="Easy\ClimbingStairs.cs" />
@@ -73,6 +84,12 @@
     <Compile Include="Easy\Sqrtx.cs" />
     <Compile Include="Easy\TwoSum.cs" />
     <Compile Include="Easy\ValidParentheses.cs" />
+    <Compile Include="RealContest\Problem6.cs" />
+    <Compile Include="RealContest\Problem5.cs" />
+    <Compile Include="RealContest\Problem4.cs" />
+    <Compile Include="RealContest\Problem3.cs" />
+    <Compile Include="RealContest\Problem2.cs" />
+    <Compile Include="RealContest\Problem1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
