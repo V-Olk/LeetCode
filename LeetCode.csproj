@@ -84,12 +84,13 @@
     <Compile Include="Easy\Sqrtx.cs" />
     <Compile Include="Easy\TwoSum.cs" />
     <Compile Include="Easy\ValidParentheses.cs" />
-    <Compile Include="RealContest\Problem6.cs" />
-    <Compile Include="RealContest\Problem5.cs" />
-    <Compile Include="RealContest\Problem4.cs" />
-    <Compile Include="RealContest\Problem3.cs" />
-    <Compile Include="RealContest\Problem2.cs" />
-    <Compile Include="RealContest\Problem1.cs" />
+    <Compile Include="RealContestOzon\Problem6 - Copy.cs" />
+    <Compile Include="RealContestOzon\Problem6.cs" />
+    <Compile Include="RealContestOzon\Problem5.cs" />
+    <Compile Include="RealContestOzon\Problem4.cs" />
+    <Compile Include="RealContestOzon\Problem3.cs" />
+    <Compile Include="RealContestOzon\Problem2.cs" />
+    <Compile Include="RealContestOzon\Problem1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
