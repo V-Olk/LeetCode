@@ -6,16 +6,16 @@ using System.Linq;
 public class Program23432
 {
 
-    public static void Main(string[] args)
-    {
-        int testCaseCount = int.Parse(Console.ReadLine());
+    //public static void Main(string[] args)
+    //{
+    //    int testCaseCount = int.Parse(Console.ReadLine());
 
-        for (int i = 0; i < testCaseCount; i++)
-        {
-            //Console.ReadLine();
-            Console.WriteLine(ValidGame(out SortedSet<int> ships) ? $"YES{Environment.NewLine}{String.Join(" ", ships)}" : "NO");
-        }
-    }
+    //    for (int i = 0; i < testCaseCount; i++)
+    //    {
+    //        //Console.ReadLine();
+    //        Console.WriteLine(ValidGame(out SortedSet<int> ships) ? $"YES{Environment.NewLine}{String.Join(" ", ships)}" : "NO");
+    //    }
+    //}
 
     private static bool ValidGame(out SortedSet<int> ships)
     {
